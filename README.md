@@ -52,7 +52,7 @@ Follow these instructions to get the project up and running on your local machin
 
 ## Usage
 
-After getting every thing set just go ahead and open the project from you IDE and run the login file and your good to go!.
+After getting every thing set just go ahead and open the project from you IDE and run the login file and you're good to go!.
 You will be able to signup for a new account.
 After filling the details correctly you will get a card number with a pin write them down.
 Finaly you will be able to perform different inquiries.
