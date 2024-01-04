@@ -46,7 +46,9 @@ Follow these instructions to get the project up and running on your local machin
   - signup2(Columns: Edu (varchar) Existing (varchar) ID (PRI, int) Income (varchar) Nationality (varchar) National_ID (UNI, bigint) occup (varchar) OthNat (varchar) SCitizen (varchar))
   - signup3(Columns: AccType (varchar) Cardno (UNI, bigint) ID (PRI, int) Pin (int) Service (varchar))
 
-<b>Note:</b> You can use different names but make the suitable changes inside the java files.
+<b>Notes:</b> 
+- You can use different names but make the suitable changes inside the java files.<br>
+- Make sure to add mysql connector and j-calander to the library
 
 ## Usage
 
