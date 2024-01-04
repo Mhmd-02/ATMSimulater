@@ -93,7 +93,7 @@ public class FastCash extends JFrame implements ActionListener {
             else if (ae.getSource() == b5){
                 amount = "250";
             }
-            else if (ae.getSource() == b1){
+            else if (ae.getSource() == b6){
                 amount = "500";
             }
             Conn c = new Conn();
